@@ -11,18 +11,18 @@ or
 * testng.xml - Define the test related to all pages.  
    
 ##### Package Description
-- ** extentreport ** - All extent Report classes are available.
-- ** pages ** - Defining all the pages.
-- ** testnglisteners **- TestNg listener class.
-- ** utils ** - Defining all the utility classes are here.
-- ** tests ** - Defining all the tests and assertions.
+- **extentreport** - All extent Report classes are available.
+- **pages** - Defining all the pages.
+- **testnglisteners**- TestNg listener class.
+- **utils** - Defining all the utility classes are here.
+- **tests** - Defining all the tests and assertions.
   
 ##### Tests Files Description
-+  ** BaseTest:- ** The main class which defines to open the browser and lunch the url of the test  and close the browser 					driver.
++  **BaseTest:-** The main class which defines to open the browser and lunch the url of the test  and close the browser 					driver.
   
-+ ** LoginTest:- ** Includes test - to verify loginPage,Account details page, BillingAddressPage, order page ,shipping 					Address page and logout page accessing data from excel sheet .  
-+ ** MyAccountTest:- ** Includes test - to verify My account page.
-+ ** ShopTest:- ** Includes test - to verify shop page.  
++ **LoginTest:-** Includes test - to verify loginPage,Account details page, BillingAddressPage, order page ,shipping 					Address page and logout page accessing data from excel sheet .  
++ **MyAccountTest:-** Includes test - to verify My account page.
++ **ShopTest:-** Includes test - to verify shop page.  
      
 
 ##### Other File Description
